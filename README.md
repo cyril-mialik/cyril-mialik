@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cyril-mialik
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning js, nodejs, rust
+- 💞️ I’m looking to collaborate on everyone
+- 📫 How to reach me telegram: @cyril_mialik (i've been waiting)
