@@ -1,3 +1,5 @@
+Hey there! 👋 I'm a full-stack developer with a thing for JavaScript, TypeScript, and Rust. I love building web apps that are fast, reliable, and fun to use.
+
 My hobbies:
 
 • Open source software: I love contributing to projects that make the world a better place.
@@ -13,3 +15,9 @@ My goals:
 • To work with awesome people who are passionate about technology.
 
 That's me in a nutshell! I'm excited to connect with you and learn more about your projects. Let's build something amazing together!
+
+My links:
+
+Presentations: https://slides.com/cyrilmialik
+Leetcode: https://leetcode.com/Kettel/
+Telegram: https://t.me/POG_Organization
