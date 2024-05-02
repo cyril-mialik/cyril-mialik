@@ -21,3 +21,4 @@ My links:
 Presentations: https://slides.com/cyrilmialik
 Leetcode: https://leetcode.com/Kettel/
 Telegram: https://t.me/POG_Organization
+Teletype: https://teletype.in/@cyril.mialik
