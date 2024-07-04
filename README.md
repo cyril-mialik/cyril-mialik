@@ -18,7 +18,8 @@ That's me in a nutshell! I'm excited to connect with you and learn more about yo
 
 My links:
 
-Presentations: https://slides.com/cyrilmialik
-Leetcode: https://leetcode.com/Kettel/
-Telegram: https://t.me/POG_Organization
+Presentation: https://slides.com/cyrilmialik
+Code: https://leetcode.com/Kettel/
+Social: https://www.linkedin.com/in/cyril-mialik/
+Articles: https://medium.com/@cyril.mialik
 Teletype: https://teletype.in/@cyril.mialik
