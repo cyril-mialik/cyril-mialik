@@ -40,7 +40,7 @@ _Senior Frontend Developer → Team Lead (2023–2025)_
 _Senior Software Engineer (Internal Services) | 2025–2026_
 - Designed and built internal microservices and admin dashboards to automate company workflows.
 - Architected RESTful APIs with NestJS and PostgreSQL; developed responsive interfaces with Vue 3 + Pinia Colada.
-- Championed migration from Webpack to Vite, cutting build times by ~40%.
+- Championed migration from Webpack to Vite, cutting build times.
 - __Stack__: Node.js, TypeScript, NestJS, Vue 3, Pinia, Pinia Colada, PostgreSQL, Vite.
 
 __Innwise__ — _Remote_
@@ -78,6 +78,12 @@ EPAM Systems | 2017 – 2018 (1.5 years)
 
 Intensive training covering modern frontend and backend technologies, test‑driven development, and collaborative workflows.
 
+__Rust for Professional Developers (Rust + Blockchain)__
+
+Yandex Course | 2026 (1 year)
+
+Expanding into systems programming and high‑performance backend development with Rust. Focusing on memory safety, concurrency, and building robust CLI/network services.
+
 ## Additional Activities
 
 __Public Speaking & Writing__
@@ -87,10 +93,10 @@ __Public Speaking & Writing__
 - Share code examples and snippets in my [Telegram channel](t.me/cyril_mialik).
 
 __Coding Practice__ 
-- Active on LeetCode [leetcode](leetcode.com/Kettel), continuously sharpening algorithmic and problem‑solving skills.
+- Active on [LeetCode](leetcode.com/Kettel), continuously sharpening algorithmic and problem‑solving skills.
 
 ## Languages
 - __Russian__ – Native
 - __English__ – B2/C1
-- __German__ - A2
-- __Chinese__ - A1
+- __German__ – A2
+- __Chinese__ – A1
