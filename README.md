@@ -1,92 +1,96 @@
-**CYRIL MIALIK**
+### Cyril Mialik
 
-### PROFESSIONAL SUMMARY
+__Minsk, Belarus__
 
-Full‑stack / Frontend Developer with 6+ years of experience in EdTech, iGaming and e‑commerce. Strong expertise in Vue 2/3 (Pinia, Vuex) and React (Redux, Saga) on the frontend, and Node.js, Express, MongoDB, PostgreSQL on the backend. Currently leading a frontend team: driving architecture, mentoring engineers (including PIPs), establishing testing standards, and building internal Node.js dashboards for data‑driven decisions. Regular conference speaker on Vue and engineering culture.
+📞 +375 25 530-72-97
 
----
+✉️ cyril.mialik@gmail.com
 
-### TECHNICAL SKILLS
+🔗 [LinkedIn](https://www.linkedin.com/in/cyril-mialik/) | [Telegram](https://t.me/cyril_mialik) | [Medium](https://medium.com/@cyril.mialik) | [Teletype](https://teletype.in/@cyril.mialik) | [LeetCode](https://leetcode.com/Kettel/) | [Presentation](https://slides.com/cyrilmialik) | [CV](https://docs.google.com/document/d/10yOgUITl5jjFK2siNoISSyLVsvsYYi2lZwNHPJHwzQc/edit?usp=sharing)
 
-- __Frontend__: JavaScript (ES6+), TypeScript, Vue 2/3, Vuex, Pinia, PiniaColada, React, Redux, Redux Saga, Redux Thunk, HTML5, CSS3, Sass/SCSS, PostCSS
-- __Backend__: Node.js, Next.js, Express.js, REST API, WebSockets
-- __Databases__: MongoDB, MySQL, PostgreSQL, TypeORM, Mongoose
-- __Testing__: Jest, Vitest, Cypress, Playwright
-- __Tools & Practices__: Git, Webpack, Vite, Axios, class-validator, class-transformer, Agile/Scrum, Code Review, CI/CD, Performance Optimization
+## Professional Summary
 
----
+Senior Software Engineer with 7+ years of hands-on experience in full‑stack JavaScript/TypeScript development. Strong expertise in Vue.js/Nuxt and Node.js ecosystems, including NestJS, Express, MongoDB, PostgreSQL, and modern tooling (Vite, Webpack, Vitest, Jest). Proven track record of leading frontend teams, decomposing complex features, mentoring developers, and aligning technical solutions with business goals. Passionate about knowledge sharing through internal talks, technical articles, and open-source examples.
 
-### WORK EXPERIENCE
+## Technical Skills
 
-__Maxbitsolution__ — Minsk, Belarus
+- __Languages__: JavaScript (ES6+), TypeScript
+- __Frontend__: Vue 2/3, Nuxt.js, React, Redux, Vuex, Pinia, Pinia Colada, Reselect, Axios
+- __Backend__: Node.js, NestJS, Express, Stripe
+- __Databases__: MongoDB, Mongoose, MySQL, PostgreSQL, TypeORM
+- __Bundlers & Tooling__: Webpack, Vite, ESLint, Prettier
+- __Testing__: Jest, Vitest, Vue Test Utils
+- __Other__: REST API design, GraphQL basics, Git, Docker basics, CI/CD (GitHub Actions)
+- __Soft Skills__: Team leadership, one‑on‑ones, onboarding, task decomposition, technical documentation, public speaking
 
-__Web Development Team Lead__ | _Apr 2024 – Present_
-_Project: iGaming mobile platform — hundreds of casino games, live dealer, real‑time multiplayer, secure payments._
+## Work Experience
 
-- Lead a team of 4 frontend developers: set technical direction, conduct code reviews, and ensure on‑time delivery.
-- Designed and built an internal analytics dashboard using Node.js, Express, and PostgreSQL, providing real‑time KPI tracking for product and management teams.
-- Developed RESTful API endpoints for the dashboard, integrating data from multiple microservices.
-- Built a culture of continuous feedback: introduced structured one‑to‑one documentation, regular 1‑on‑1s, and individual development plans. Prepared and successfully executed Performance Improvement Plans (PIP) for 2 engineers, resulting in their return to full productivity.
-- Authored and rolled out a company‑wide testing documentation (standards, checklists, best practices) that increased testing efficiency and shortened onboarding for new QA and developers.
-- Drove the migration from Vue 2 + Vuex to Vue 3 + Pinia, shrinking bundle size and accelerating page load.
-- Introduced a robust testing strategy (Vitest + Cypress), boosting code coverage from 20% to 85% and reducing production defects.
-- Mentored junior developers through pair programming, code reviews, and targeted growth plans — shortened average ramp‑up time.
+__MaxbitSolution__ — _Minsk, Belarus_
 
-__Frontend Developer__ | _Mar 2023 – Jul 2024_
-_Same iGaming platform: mobile casino with slots, table games, and exclusive bonuses._
+__Senior Software Engineer / Team Lead__ | February 2023 – August 2026
 
-- Developed high‑performance game interfaces with Vue 3, Pinia, and WebSockets, handling 50K+ daily active users.
-- Optimised Core Web Vitals for the mobile gaming app, improving LCP by 35% and achieving a 90+ performance score.
-- Collaborated closely with backend and product to deliver 10+ revenue‑impacting features (leaderboards, bonus engine, live dealer lobby).
-- Wrote unit and integration tests (Vitest, Cypress) that cut regression bugs during releases.
+_Senior Frontend Developer → Team Lead (2023–2025)_
+- Led a cross‑functional team of 5 frontend developers, driving the delivery of a complex B2B platform.
+- Decomposed business requirements into granular tasks, planned sprints, and maintained transparent project documentation.
+- Conducted regular one‑on‑one meetings, created individual development plans, and onboarded new team members.
+- Collaborated directly with stakeholders to refine features, balance technical debt, and ensure alignment with company strategy.
+- Wrote and maintained testing standards and contributed to the internal UI component library.
+- __Stack__: Vue 2/3, Nuxt.js, Vuex, Pinia, Pinia Colada, Webpack, Vite, Jest, Vitest, Axios, JavaScript/TypeScript.
 
-__Innowise Group__ — Minsk, Belarus
-__Frontend Developer__ | _Jan 2022 – Feb 2023_
-_Project: Leading German marketplace — millions of products, secure payments, fast delivery._
+_Senior Software Engineer (Internal Services) | 2025–2026_
+- Designed and built internal microservices and admin dashboards to automate company workflows.
+- Architected RESTful APIs with NestJS and PostgreSQL; developed responsive interfaces with Vue 3 + Pinia Colada.
+- Championed migration from Webpack to Vite, cutting build times by ~40%.
+- __Stack__: Node.js, TypeScript, NestJS, Vue 3, Pinia, Pinia Colada, PostgreSQL, Vite.
 
-- Built responsive product pages and checkout flows with React, Redux Saga, TypeScript — serving 2M+ monthly users.
-- Improved SEO and performance by implementing server‑side rendering with Next.js, achieving PageSpeed score and organic traffic.
-- Maintained a shared component library used across 3 Scrum teams, reducing UI inconsistency.
-- Collaborated with backend engineers to define REST API contracts and ensure seamless integration.
+__Innwise__ — _Remote_
 
-__Freelance__ - Gomel, Belarus
-__Full‑stack Developer__ | _Dec 2020 – Jan 2022_
-_Projects: Online education platform & Social game platform._
+__Middle/Senior Frontend Developer__ | January 2022 – February 2023
+- Developed an AI‑powered product‑listing assistant for the German e‑commerce company Otto. The tool generated ready‑to‑sell product pages from sellers’ plain‑text descriptions.
+- Owned the frontend architecture of a multi‑tenant Nuxt.js application, integrating Stripe for subscription management.
+- Drove adoption of Vitest as the main testing framework, achieving >80% code coverage on critical paths.
+- Delivered several internal tech talks on Vue 3 Composition API and performance optimization.
+- __Stack__: Vue 2/3, Nuxt.js, Pinia, Vuex, Stripe, Vitest, TypeScript, Webpack, Vite, Axios.
 
-- Delivered full‑stack features for an education platform using Node.js, Express, MongoDB (Mongoose) and Vue 2: course catalogue, video streaming, Stripe payments.
-- Built a social game platform with React, Redux, Node.js, Socket.io, and PostgreSQL; implemented real‑time chat and tournament engine.
-- Designed and documented REST APIs for both projects, ensuring clear contracts for frontend and third‑party integrations.
-- Set up CI/CD (GitHub Actions + Docker), reducing deployment cycles.
+__Freelance__ — _Remote_
 
-__EPAM__ — Gomel, Belarus
-__Full‑stack Developer__ | _Sep 2019 – Dec 2020_
-_Project: Online learning platform — courses, interactive lessons, certification._
+__Full‑Stack Developer__ | December 2020 – January 2022
+- Built and maintained a gaming analytics and case‑opening platform for Dota 2, CS:GO, and other titles.
+- Implemented real‑time game data aggregation pipelines with Node.js + MongoDB.
+- Developed interactive dashboards using Vue 3 + Pinia and React + Redux for different client modules.
+- Set up CI/CD pipelines and wrote end‑to‑end tests with Jest and Vitest.
+- __Stack__: Vue 2/3, React, Redux, Vuex, Pinia, Jest, Vitest, Webpack, Vite, MongoDB, Mongoose, MySQL, TypeORM, Node.js, NestJS.
 
-- Developed full‑stack interactive course player and quiz engine using Node.js, Express, MongoDB (Mongoose) and Vue 2/Vuex.
-- Built secure user authentication and authorization (OAuth 2.0) and integrated third‑party video hosting.
-- Designed and optimised database queries (MongoDB) and implemented Redis caching, reducing API response time.
-- Collaborated on API design and performed code reviews for both frontend and backend components.
+__EPAM Systems__ — _Minsk, Belarus_
 
----
+__Junior Software Engineer__ | September 2019 – December 2020
 
-### LANGUAGES
-- __Russian__: Native
-- __English__: Upper‑Intermediate (B2) — professional communication, documentation
+- Contributed to an internal educational platform where teachers could upload coding tasks with custom validation algorithms, and students received instant automated feedback.
+- Built RESTful APIs with Express and NestJS, integrated MongoDB and MySQL via Mongoose/TypeORM.
+- Developed reusable React components (Redux, Reselect) and maintained Webpack configuration.
+- Participated in internal knowledge‑sharing sessions as a speaker.
+- __Stack__: Node.js, JavaScript/TypeScript, React, Redux, Reselect, Express, MongoDB, Mongoose, MySQL, TypeORM, Webpack, Jest.
 
----
+## Education & Professional Development
+__Full‑Stack Development Program (Node.js + TypeScript/JavaScript)__
 
-### ADDITIONAL INFORMATION
+EPAM Systems | 2017 – 2018 (1.5 years)
 
-- __Public speaking__: Regular speaker at internal and external meetups (Minsk JS, internal frontend community). Talks cover Vue 3 migration, testing strategy, and effective one‑to‑one meetings.
-- __Active mentor__: conducted 5+ hands‑on workshops on Vue 3 and testing best practices for junior developers.
+Intensive training covering modern frontend and backend technologies, test‑driven development, and collaborative workflows.
 
----
+## Additional Activities
 
-### LINKS
-- Gmail: cyril.mialik@gmail.com
-- Telegram: https://t.me/cyril_mialik
-- Presentation: https://slides.com/cyrilmialik
-- Code: https://leetcode.com/Kettel/
-- Social: https://www.linkedin.com/in/cyril-mialik/
-- Articles: https://medium.com/@cyril.mialik
-- Teletype: https://teletype.in/@cyril.mialik
+__Public Speaking & Writing__
+
+- Regular speaker at internal company meetups and public frontend conferences (slides: slides.com/cyrilmialik).
+- Author of articles on [Medium](medium.com/@cyril.mialik) and [Teletype](teletype.in/@cyril.mialik).
+- Share code examples and snippets in my [Telegram channel](t.me/cyril_mialik).
+
+__Coding Practice__ 
+- Active on LeetCode [leetcode](leetcode.com/Kettel), continuously sharpening algorithmic and problem‑solving skills.
+
+## Languages
+- __Russian__ – Native
+- __English__ – B2/C1
+- __German__ - A2
+- __Chinese__ - A1
